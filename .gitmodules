@@ -1,0 +1,6 @@
+[submodule "CRUD-BACKEND"]
+	path = CRUD-BACKEND
+	url = https://github.com/eliamiguel/CRUD-BACKEND
+[submodule "CRUD-FRONTEND"]
+	path = CRUD-FRONTEND
+	url = https://github.com/eliamiguel/CRUD-FRONTEND
